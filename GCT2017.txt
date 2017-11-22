@@ -1,0 +1,10 @@
+1 2837 carlsen
+2 2799 caru
+3 2760 karj
+4 2780 naka
+5 2796 MVL
+6 2782 anand
+7 2788 so
+8 2729.2 nepo
+9 2802.2 aronian
+10 2715.1 adams
